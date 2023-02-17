@@ -4,6 +4,9 @@
 - 📫 How to reach me @AshElshehawy on Twitter or email me @ ashrakat.elshehawy@politics.ox.ac.uk. 
 - 🤓 Please visit my website www.ashrakatelshehawy.com to know more about my research and teaching.
 
+
+You can find access for my teaching material for my ongoing Python for Social Data Science Class [here](https://github.com/aelshehawy/PythonSocialDataScience) and for my Computational Text Analysis [here](https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford) .
+
 <!---
 aelshehawy/aelshehawy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
