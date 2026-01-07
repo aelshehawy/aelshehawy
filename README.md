@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashrakat Elshehawy (@aelshehawy). I am an Assistant Professor at University College London. I was a postdoctoral fellow at Stanford. I hold a PhD from Oxford.
 - 👀 I’m interested in Political Economy, Development, Computational Social Science, and Natural Language Processing.
 - 👩🏽‍🏫 I teach undergraduate and graduate level courses on Social Data Science with Python, Computational Text Analysis and Machine Learning, and Introduction to Statistics in R.
-- 📫 How to reach me @AshElshehawy on Twitter or email me @ ashrakat@stanford.edu. 
+- 📫 How to reach me @AshElshehawy on Twitter or email me @ a.elshehawy@ucl.ac.uk. 
 - 🤓 Please visit my website www.ashrakatelshehawy.com to know more about my research and teaching.
 
 
